@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ammob\\source\\repos\\WebPhoneBook\\WebPhoneBook\\WebPhoneBook.csproj",
-      "projectName": "WebPhoneBook",
-      "projectPath": "C:\\Users\\ammob\\source\\repos\\WebPhoneBook\\WebPhoneBook\\WebPhoneBook.csproj",
+      "projectUniqueName": "C:\\Users\\ammob\\source\\repos\\WebPhoneBook\\WebPhoneBook.DataAccess\\WebPhoneBook.DataAccess.csproj",
+      "projectName": "WebPhoneBook.DataAccess",
+      "projectPath": "C:\\Users\\ammob\\source\\repos\\WebPhoneBook\\WebPhoneBook.DataAccess\\WebPhoneBook.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ammob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ammob\\source\\repos\\WebPhoneBook\\WebPhoneBook\\obj\\",
+      "outputPath": "C:\\Users\\ammob\\source\\repos\\WebPhoneBook\\WebPhoneBook.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ammob\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,9 +56,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

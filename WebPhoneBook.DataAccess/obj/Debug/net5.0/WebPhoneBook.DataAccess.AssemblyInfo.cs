@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WebPhoneBook")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WebPhoneBook.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("WebPhoneBook")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WebPhoneBook")]
+[assembly: System.Reflection.AssemblyProductAttribute("WebPhoneBook.DataAccess")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WebPhoneBook.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
