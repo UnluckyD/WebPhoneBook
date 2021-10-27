@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebPhoneBook.DataBaseAccess;
 
 namespace WebPhoneBook
 {
@@ -19,6 +20,9 @@ namespace WebPhoneBook
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            DataBase PhoneBook = new DataBase();
+
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -30,7 +34,7 @@ namespace WebPhoneBook
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync($"Hello World! DataBase is: {PhoneBook != null}");
                 });
             });
         }
