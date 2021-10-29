@@ -1,0 +1,11 @@
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\WebPhoneBook.DataBaseAccess.dll.config
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\WebPhoneBook.DataBaseAccess.dll
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\WebPhoneBook.DataBaseAccess.pdb
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\MsgBoxAlertClass.dll
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\obj\Debug\WebPhoneBook.DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\obj\Debug\WebPhoneBook.DataBaseAccess.dll
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\obj\Debug\WebPhoneBook.DataBaseAccess.pdb
+C:\Users\ammob\source\repos\WebPhoneBook\WebPhoneBook.DataBaseAccess\obj\Debug\WebPhoneBook.DataBaseAccess.csproj.CopyComplete
