@@ -1,0 +1,6 @@
+E:\VSProgs\WebPhoneBook\Domain\bin\Debug\Domain.dll
+E:\VSProgs\WebPhoneBook\Domain\bin\Debug\Domain.pdb
+E:\VSProgs\WebPhoneBook\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\VSProgs\WebPhoneBook\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\VSProgs\WebPhoneBook\Domain\obj\Debug\Domain.dll
+E:\VSProgs\WebPhoneBook\Domain\obj\Debug\Domain.pdb

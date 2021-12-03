@@ -1,0 +1,12 @@
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\bin\Debug\net6.0\WebPhoneBook.Domain.deps.json
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\bin\Debug\net6.0\WebPhoneBook.Domain.dll
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\bin\Debug\net6.0\ref\WebPhoneBook.Domain.dll
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\bin\Debug\net6.0\WebPhoneBook.Domain.pdb
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.csproj.AssemblyReference.cache
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.AssemblyInfoInputs.cache
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.AssemblyInfo.cs
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.csproj.CoreCompileInputs.cache
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.dll
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\ref\WebPhoneBook.Domain.dll
+E:\VSProgs\WebPhoneBook\WebPhoneBook.Domain\obj\Debug\net6.0\WebPhoneBook.Domain.pdb

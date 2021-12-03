@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebPhoneBook", "WebPhoneBook\WebPhoneBook.csproj", "{D9ABD926-6AD8-4C3B-B7EC-1601ED96566C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPhoneBook.DataBaseAccess", "WebPhoneBook.DataBaseAccess\WebPhoneBook.DataBaseAccess.csproj", "{134F6BC5-5228-4406-98C1-5ED4115C910F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPhoneBook.Domain", "WebPhoneBook.Domain\WebPhoneBook.Domain.csproj", "{C88608C1-A696-4F9B-BDA3-B771054D4EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D9ABD926-6AD8-4C3B-B7EC-1601ED96566C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9ABD926-6AD8-4C3B-B7EC-1601ED96566C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9ABD926-6AD8-4C3B-B7EC-1601ED96566C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{134F6BC5-5228-4406-98C1-5ED4115C910F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{134F6BC5-5228-4406-98C1-5ED4115C910F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{134F6BC5-5228-4406-98C1-5ED4115C910F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{134F6BC5-5228-4406-98C1-5ED4115C910F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88608C1-A696-4F9B-BDA3-B771054D4EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88608C1-A696-4F9B-BDA3-B771054D4EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88608C1-A696-4F9B-BDA3-B771054D4EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88608C1-A696-4F9B-BDA3-B771054D4EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
