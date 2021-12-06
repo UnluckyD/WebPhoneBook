@@ -16,23 +16,18 @@ namespace WebPhoneBook
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<PhoneBookRepository>();
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(
-            "Data Source=(local); Database=Articles; Persist Security Info=False; MultipleActiveResultSets=True; Trusted_Connection=True;"
+            @"Data Source=(local)\mssqllocaldb; Database=PhoneBookDb; Persist Security Info=False; MultipleActiveResultSets=True; Trusted_Connection=True;"
             ));
         }
 
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            List<PhoneBook> list = new List<PhoneBook>() { new PhoneBook { Id = 1, LastName = "lastName", FirstName = "firstName", MiddleName = "MiddleName" },
-            new PhoneBook { Id = 2, LastName = "lastName", FirstName = "firstName", MiddleName = "MiddleName" },
-            new PhoneBook { Id = 3, LastName = "lastName", FirstName = "firstName", MiddleName = "MiddleName" },
-            new PhoneBook { Id = 4, LastName = "lastName", FirstName = "firstName", MiddleName = "MiddleName" },
-            new PhoneBook { Id = 5, LastName = "lastName", FirstName = "firstName", MiddleName = "MiddleName" }};
-
             if (env.IsDevelopment())
             {
-                //app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage();
             }
 
             app.UseRouting();
@@ -44,7 +39,7 @@ namespace WebPhoneBook
                     var content = new StringBuilder();
                     content.Append("<table border='2'>");
 
-                    foreach (var person in list)
+                    foreach (var person in )
                     {
                         content.Append("<tr>");
                         content.Append($"<td><font color='black' size='5'>{person.Id}</font></td>");

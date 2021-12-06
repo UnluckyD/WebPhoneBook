@@ -18,14 +18,6 @@ namespace WebPhoneBook.Domain
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-
-            builder.Entity<PhoneBook>().HasData( new PhoneBook
-            {
-                Id = 1,
-                LastName = "lastName",
-                FirstName = "firstName",
-                MiddleName = "MiddleName"
-            } );
         }
     }
 }
